@@ -1,4 +1,5 @@
-# Hello! My name is Phuong Linh, you can call me Pauline!
+# 🫧 Hello! My name is Phuong Linh, you can call me Pauline!
+I’m a third-year student at Foreign Trade University, trying my best to pass the course :) 
 
 # 📚 Education:
 - ### 2024 - now: Foreign Trade University
@@ -13,7 +14,7 @@
   Organizing public events with an average audience of around 300 people
 
 # 🧰 Skills:
-Graphic Design, Teamwork, Communication skills, Leadership skills, Content writing skills<br/>
+Graphic Design, Teamwork, Communication, Leadership, Content writing<br/>
 Languages: Vietnamese, English & Chinese
 
 
